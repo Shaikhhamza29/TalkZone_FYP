@@ -1,0 +1,9 @@
+{
+  "/api/messages/route": "app/api/messages/route.js",
+  "/api/channels/route": "app/api/channels/route.js",
+  "/api/livekit/route": "app/api/livekit/route.js",
+  "/api/uploadthing/route": "app/api/uploadthing/route.js",
+  "/api/servers/route": "app/api/servers/route.js",
+  "/(main)/(routes)/servers/[serverId]/page": "app/(main)/(routes)/servers/[serverId]/page.js",
+  "/(main)/(routes)/servers/[serverId]/channels/[channelId]/page": "app/(main)/(routes)/servers/[serverId]/channels/[channelId]/page.js"
+}
